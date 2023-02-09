@@ -1,23 +1,24 @@
 import Head from 'next/head'
-import Header from '@components/Header'
-import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-    <div className="container">
+    <div className="h-[100vh] flex flex-col justify-center items-center">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Jose Cervino</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+        <>
+          <h1 className="text-3xl pb-2">José Cerviño IV</h1>
+          <h2>Fractional CTO, CEO and SMB Investor</h2>
+        </>
+        <a className="mt-[30%] hover:text-slate-500 underline" href="mailto:contact@josecervino.com">Schedule an AI & Tech consult</a>
       </main>
 
-      <Footer />
+      <footer className="w-full h-[100px] border-t-2 border-[#eaeaea] flex justify-center items-center">
+        All rights reserved.
+      </footer>
     </div>
   )
 }
