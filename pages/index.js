@@ -15,17 +15,17 @@ export default function Home() {
           </div>
           <div>
             <h1 className="text-3xl pb-2">Cervino Enterprises</h1>
-            <h2>Business & Tech Consultations + Private Equity</h2>
+            <h2>Private Equity, Business & Tech Consultations</h2>
           </div>
         </div>
-        <div className="mt-[8%] px-[50px] py-[20px] flex-col justify-center border rounded-lg border-gray-400">
+        <div className="mt-[8%] w-[500px] px-[50px] py-[20px] flex-col justify-center border rounded-lg border-gray-400">
           <h3 className="font-semibold mb-[10px]">
             Half-Day Consults Available:
           </h3>
           <ul>
             <li>- Business Operator to Owner</li>
             <li>- M&A Strategic Plan</li>
-            <li className="text-gray-400">- (Coming Soon) Start & Manage a Sales & Development Team</li>
+            <li>- Digital Strategy, CTO Consultation</li>
             <li className="text-gray-400">- (Coming Soon) Exit for Maximum Value</li>
             <li className="text-gray-400">- (Coming Soon) Grow Profit</li>
             <li className="text-gray-400">- (Coming Soon) Grow Sales</li>
@@ -35,7 +35,20 @@ export default function Home() {
             <li className="text-gray-400">- (Coming Soon) AI Strategy</li>
           </ul>
         </div>
-        <a className="mt-[30%] hover:text-slate-500 underline" href="mailto:contact@josecervino.com">Schedule a consult</a>
+        <div className="mt-[8%] w-[500px] px-[50px] py-[20px] flex-col justify-center border rounded-lg border-gray-400">
+          <h3 className="font-semibold mb-[10px]">
+            Acquisition Criteria:
+          </h3>
+          <ul>
+            <li>- $350k-$2M ARR, maximum $8M ARR</li>
+            <li>- 15% profit</li>
+            <li>- 5+ years in operation</li>
+            <li>- 5+ employees</li>
+            <li>- Business Type #1: Digital Business, online coaching & consulting</li>
+            <li>- Business Type #2: Retiring owner</li>
+          </ul>
+        </div>
+        <a className="mt-[30%] hover:text-slate-500 underline" href="mailto:contact@josecervino.com">Contact the Founder</a>
       </main>
 
       <footer className="w-full h-[100px] border-t-2 border-[#eaeaea] flex justify-center items-center">
