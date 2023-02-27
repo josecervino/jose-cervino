@@ -29,6 +29,7 @@ export default function Home() {
             <li>- Exit for Maximum Value</li>
             <li>- Grow Profit</li>
             <li>- Grow Sales</li>
+            <li className="text-gray-400">- (Coming Soon) Growth</li>
             <li className="text-gray-400">- (Coming Soon) Business Structure</li>
             <li className="text-gray-400">- (Coming Soon) Business Model</li>
             <li className="text-gray-400">- (Coming Soon) Customer Experience</li>
