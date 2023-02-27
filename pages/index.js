@@ -23,16 +23,16 @@ export default function Home() {
             Half-Day Consults Available:
           </h3>
           <ul>
-            <li>- Business Operator to Owner</li>
             <li>- M&A Strategic Plan</li>
-            <li>- Digital Strategy, CTO Consultation</li>
             <li>- Exit for Maximum Value</li>
+            <li>- Growth</li>
             <li>- Grow Profit</li>
             <li>- Grow Sales</li>
-            <li className="text-gray-400">- (Coming Soon) Growth</li>
-            <li className="text-gray-400">- (Coming Soon) Business Structure</li>
-            <li className="text-gray-400">- (Coming Soon) Business Model</li>
-            <li className="text-gray-400">- (Coming Soon) Customer Experience</li>
+            <li>- Business Structure</li>
+            <li>- Business Model</li>
+            <li>- Customer Experience</li>
+            <li className="text-gray-400">- (Coming Soon) Business Operator to Owner</li>
+            <li className="text-gray-400">- (Coming Soon) Digital Strategy, CTO Consultation</li>
             <li className="text-gray-400">- (Coming Soon) SMB AI Strategy, CTO Consultation</li>
           </ul>
         </div>
