@@ -26,13 +26,13 @@ export default function Home() {
             <li>- Business Operator to Owner</li>
             <li>- M&A Strategic Plan</li>
             <li>- Digital Strategy, CTO Consultation</li>
-            <li className="text-gray-400">- (Coming Soon) Exit for Maximum Value</li>
-            <li className="text-gray-400">- (Coming Soon) Grow Profit</li>
-            <li className="text-gray-400">- (Coming Soon) Grow Sales</li>
+            <li>- Exit for Maximum Value</li>
+            <li>- Grow Profit</li>
+            <li>- Grow Sales</li>
             <li className="text-gray-400">- (Coming Soon) Business Structure</li>
             <li className="text-gray-400">- (Coming Soon) Business Model</li>
             <li className="text-gray-400">- (Coming Soon) Customer Experience</li>
-            <li className="text-gray-400">- (Coming Soon) AI Strategy</li>
+            <li className="text-gray-400">- (Coming Soon) SMB AI Strategy, CTO Consultation</li>
           </ul>
         </div>
         <div className="mt-[8%] w-[500px] px-[50px] py-[20px] flex-col justify-center border rounded-lg border-gray-400">
