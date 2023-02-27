@@ -23,6 +23,7 @@ export default function Home() {
             Half-Day Consults Available:
           </h3>
           <ul>
+            <li>- Business Operator to Owner</li>
             <li>- M&A Strategic Plan</li>
             <li>- Exit for Maximum Value</li>
             <li>- Growth</li>
@@ -31,7 +32,6 @@ export default function Home() {
             <li>- Business Structure</li>
             <li>- Business Model</li>
             <li>- Customer Experience</li>
-            <li className="text-gray-400">- (Coming Soon) Business Operator to Owner</li>
             <li className="text-gray-400">- (Coming Soon) Digital Strategy, CTO Consultation</li>
             <li className="text-gray-400">- (Coming Soon) SMB AI Strategy, CTO Consultation</li>
           </ul>
